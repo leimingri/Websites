@@ -11,3 +11,7 @@ Some Learning Websites
 [https://ggplot2.tidyverse.org/](https://ggplot2.tidyverse.org/)  
 [https://cran.r-project.org/web/packages/coronavirus/index.html](https://cran.r-project.org/web/packages/coronavirus/index.html)  
 [https://github.com/CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19) 
+[简历网站https://wowchemy.com/hugo-themes/](https://wowchemy.com/hugo-themes/)
+[https://spacetimewithr.org/](https://spacetimewithr.org/)
+[http://faculty.missouri.edu/~wiklec/](http://faculty.missouri.edu/~wiklec/)
+[大赛https://www.sodic.com.cn/](https://www.sodic.com.cn/)
