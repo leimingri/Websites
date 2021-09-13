@@ -15,3 +15,6 @@ Some Learning Websites
 [https://spacetimewithr.org/](https://spacetimewithr.org/)  
 [http://faculty.missouri.edu/~wiklec/](http://faculty.missouri.edu/~wiklec/)  
 [大赛https://www.sodic.com.cn/](https://www.sodic.com.cn/)  
+[https://packagemanager.rstudio.com/](https://packagemanager.rstudio.com/)  
+[https://styler.r-lib.org/](https://styler.r-lib.org/)  
+
