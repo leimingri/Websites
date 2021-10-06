@@ -18,5 +18,6 @@ Some Learning Websites
 [https://packagemanager.rstudio.com/](https://packagemanager.rstudio.com/)  
 [https://styler.r-lib.org/](https://styler.r-lib.org/)  
 [交互式地图的制作（1）https://plotly.com/r/maps/](https://plotly.com/r/maps/)  
-[交互式地图的制作（2）https://rstudio.github.io/leaflet/](https://rstudio.github.io/leaflet/)  
+[交互式地图的制作（2）https://rstudio.github.io/leaflet/](https://rstudio.github.io/leaflet/)   
+[https://rmarkdown.rstudio.com/](https://rmarkdown.rstudio.com/)
 
