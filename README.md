@@ -20,6 +20,6 @@ Some Learning Websites
 [交互式地图的制作（1）https://plotly.com/r/maps/](https://plotly.com/r/maps/)  
 [交互式地图的制作（2）https://rstudio.github.io/leaflet/](https://rstudio.github.io/leaflet/)   
 [https://rmarkdown.rstudio.com/](https://rmarkdown.rstudio.com/)   
-[亚马逊云平台上搭建了一个RStudio服务器 https://dev.cug.szmstech.com](https://dev.cug.szmstech.com)  
+[亚马逊云平台上搭建了一个RStudio服务器 https://cug.szmstech.com/](https://cug.szmstech.com/)  
 [书https://mastering-shiny.org/](https://mastering-shiny.org/)
 
