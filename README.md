@@ -22,6 +22,7 @@ Some Learning Websites
 [https://rmarkdown.rstudio.com/](https://rmarkdown.rstudio.com/)   
 [亚马逊云平台上搭建了一个RStudio服务器 https://cug.szmstech.com/](https://cug.szmstech.com/)  
 [书https://mastering-shiny.org/](https://mastering-shiny.org/)  
+[书中相关参考答案](https://mastering-shiny-solutions.org/)  
 [UCI 数据来源](http://archive.ics.uci.edu/ml/datasets.php)  
 [sourceforge数据来源](http://mulan.sourceforge.net/datasets.html)  
 [北京大学开放研究数据平台](https://opendata.pku.edu.cn/)  
