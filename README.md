@@ -26,6 +26,8 @@ Some Learning Websites
 [UCI 数据来源](http://archive.ics.uci.edu/ml/datasets.php)  
 [sourceforge数据来源](http://mulan.sourceforge.net/datasets.html)  
 [北京大学开放研究数据平台](https://opendata.pku.edu.cn/)  
+[The SEIRS model for infectious disease dynamics https://www.nature.com/articles/s41592-020-0856-2](https://www.nature.com/articles/s41592-020-0856-2)  
+[An interactive tool to explore the SEIRS model is at https://martinkrz.github.io/posepi2](https://martinkrz.github.io/posepi2)  
 
 
 
