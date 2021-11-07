@@ -29,6 +29,8 @@ Some Learning Websites
 [The SEIRS model for infectious disease dynamics https://www.nature.com/articles/s41592-020-0856-2](https://www.nature.com/articles/s41592-020-0856-2)  
 [An interactive tool to explore the SEIRS model is at https://martinkrz.github.io/posepi2](https://martinkrz.github.io/posepi2)  
 [包http://hadley.nz/](http://hadley.nz/)  
+[http://www.stat.tsinghua.edu.cn/research/financial-big-data/](http://www.stat.tsinghua.edu.cn/research/financial-big-data/)  
+[https://tushare.pro/](https://tushare.pro/) 
 
 
 
