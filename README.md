@@ -51,10 +51,10 @@
 时间序列建模相关
 
 [Python中的概率时间序列建模](https://ts.gluon.ai/stable/)  
-[stan贝叶斯](https://pystan.readthedocs.io/en/latest/) 
-[stan相关介绍](https://mc-stan.org/) 
-[Facebook (Meta) 专门针对时序数据的方法和软件 Prophet](https://facebook.github.io/prophet/) 
-[Facebook (Meta) 专门针对时序数据的方法和软件 Prophet](https://facebook.github.io/prophet/) 
+[stan贝叶斯](https://pystan.readthedocs.io/en/latest/)  
+[stan相关介绍](https://mc-stan.org/)  
+[Facebook (Meta) 专门针对时序数据的方法和软件 Prophet](https://facebook.github.io/prophet/)  
+
 
 
 
